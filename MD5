@@ -1,0 +1,17 @@
+bec30925fb332bbfb6b05d63039e03d2 *DESCRIPTION
+a7e9d0b9c1e776d6c824557115d645b7 *NAMESPACE
+2458305b5d51e99f70d80b540de5945c *R/pixelpuzzle.R
+12152accbef2e5f7e32a0411c648fd90 *README.md
+edbed80faa01d995d32476a9413c0d60 *man/colorize_sprite.Rd
+e9d717d53191b2ed48a94c73bd5a0b6f *man/combine_sprite.Rd
+63a7c9d1269ee4ce02aea62b66413139 *man/define_sprite.Rd
+43fe21e771821b07bb344668ed9fdd66 *man/figures/pixelpuzzle-allstars.png
+bdab48987a28d5906d6c93b2ab135d7d *man/figures/pixelpuzzle-defsprite.png
+d202ee2e6221bdda9a717fed7091fedf *man/flip_sprite.Rd
+1316c65f2724ac877ba954948aae3003 *man/intro.Rd
+96056d3febc1d039b08f2474b0f22197 *man/pixelpuzzle.Rd
+d2c0d7c73a32d32c4d1936823efd0c7d *man/play_sprite.Rd
+1f46440aaf665681ffb73d701b59516f *man/select_sprite.Rd
+9d3018b75a8c21a460da08ecbb4e55d5 *man/shift_sprite_row.Rd
+ba75d0a01706e7f9fbf6e9bd84332254 *man/show_sprite.Rd
+e3d3ca8b37091705b1f693d16b9ac3b3 *man/shuffle_sprite.Rd
